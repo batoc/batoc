@@ -8,5 +8,5 @@
     <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-                 badge&logo=javascript&logoColor=black" height="28px"/></a>
     <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="28px"/></a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28px"/></a>
-    
+ </p>
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batoc&layout=compact&theme=dark)](https://github.com/batoc/github-readme-stats)
