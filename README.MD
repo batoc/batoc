@@ -10,4 +10,9 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28px"/></a>
  </p>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batoc&layout=compact&theme=dark)](https://github.com/batoc/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=batoc&theme=dark)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=batoc&theme=darkhub&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=batoc&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=batoc&theme=github_dark)
