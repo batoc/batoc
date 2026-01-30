@@ -12,7 +12,12 @@
 
 <h3 align="left">📊 GitHub Stats</h3>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=batoc&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=batoc&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=batoc&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=batoc&theme=github_dark)
+<table>
+  <tr>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=batoc&theme=github_dark" /></td>
+  </tr>
+  <tr>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=batoc&theme=github_dark" /></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=batoc&theme=github_dark" /></td>
+  </tr>
+</table>
