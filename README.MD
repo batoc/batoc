@@ -8,11 +8,11 @@
     <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="28px"/></a>
     <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="28px"/></a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28px"/></a>
- </p>
- 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=batoc&theme=dark)](https://git.io/streak-stats)
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=batoc&theme=darkhub&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+<h3 align="left">📊 GitHub Stats</h3>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=batoc&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=batoc&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=batoc&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=batoc&theme=github_dark)
